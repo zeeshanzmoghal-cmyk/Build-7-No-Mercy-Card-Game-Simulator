@@ -1,6 +1,6 @@
 # Project Name: No Mercy Card Game Simulator
 
-No Mercy Card Game Simulator is a local multiplayer desktop application built with C# and Windows Forms. It allows up to 4 players to play a fast-paced card game experience on a single computer. The game automatically selects a starting player, manages turns, and enforces custom game rules. Players compete by strategically playing cards, while avoiding reaching the maximum hand limit of 25 cards. A player wins by eliminating all cards from their hand, or when all other players are eliminated from the game.
+No Mercy Card Game Simulator is a local multiplayer desktop application built with C# and Windows Forms. It allows up to 4 players to play a fast-paced card game experience on a single computer. The game automatically selects a starting player, manages turns, and enforces game rules. Players compete by strategically playing cards, while avoiding reaching the maximum hand limit of 25 cards. A player wins by eliminating all cards from their hand, or when all other players are eliminated from the game.
 
 
 # How to Use:
